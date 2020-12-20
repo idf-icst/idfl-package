@@ -74,7 +74,7 @@ to instrument and execute all the tests. Then configure this tool pointing `spec
 The spectrum data are pre-collected and made available at: 
 - http://fault-localization.cs.washington.edu/ 
 - https://bitbucket.org/rjust/fault-localization-data/src/master/
-- For mor information: https://github.com/rjust/defects4j  
+- For more information: https://github.com/rjust/defects4j  
 ## Projects under evaluation
 - Chart: 10 real bugs
 - Lang: 14 real bugs
